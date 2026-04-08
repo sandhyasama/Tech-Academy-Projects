@@ -1,0 +1,7 @@
+For this assignment
+I have cloned my GitHub Repo using git clone myrepo-url
+then I have changed my directory to Tech-Academy-Projects using cd Tech-Academy-Projects
+then I have leverage touch command to create the file VCCourse_Challenge_2.txt using touch VCCourse_Challenge_2.txt
+Then I have opened this text file directly in notepad and wrote this text, then I have to stage this file using 
+git add VCCourse_Challenge_2.txt then commit using git commit -m "Added VCCourse challenge 2 text file" then
+use git push to push the change to my remote repositorys
